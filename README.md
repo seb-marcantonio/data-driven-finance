@@ -1,4 +1,4 @@
-# Data-Driven Finance
+# Data-Driven Finance Projects
 
 A portfolio of data-driven finance and football analyses, each built into a LinkedIn post. The recipe is the same every time: public data, a clear question, honest methodology, and a clean chart.
 
