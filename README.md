@@ -2,7 +2,7 @@
 
 A portfolio of data-driven finance and football analyses, each built into a LinkedIn post. The recipe is the same every time: public data, a clear question, honest methodology, and a clean chart.
 
-> Maintained by Ryan. Replace this line with your name, LinkedIn, and GitHub handle.
+> Maintained by Sebastian Marcantonio. www.linkedin.com/in/sebastianmarcantonio 
 
 ## Fully reproducible projects
 Code, data, and charts included, so anyone can rerun them.
