@@ -9,7 +9,7 @@ Code, data, and charts included, so anyone can rerun them.
 
 - **[World Cup market value](projects/world-cup-market-value/)** — How much a strong World Cup adds to a player's and a team's Transfermarkt market value, before vs after, across 2014, 2018, and 2022. Python + Transfermarkt data.
 - **[Magnificent 7 earnings reaction](projects/magnificent-7-earnings-reaction/)** — Beating EPS estimates barely moved the Mag 7 last year (24 of 27 beats, the stock fell on 16). Surprise size vs next-day move, correlation about 0.2. Python + earnings and price data.
-
+**(projects/world-cup-market-value/)**
 ## Writeups
 Finished posts and descriptions.
 
